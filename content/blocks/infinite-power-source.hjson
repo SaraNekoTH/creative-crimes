@@ -1,5 +1,5 @@
 type: PowerSource
-name: infinite-power-source
+name: power source
 category: power
 buildVisibility: shown
 size: 1
