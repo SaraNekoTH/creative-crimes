@@ -1,5 +1,5 @@
 type: LiquidSource
-name: infinite liquid source
+name: liquid source
 category: liquid
 buildVisibility: shown
 saveConfig: false
