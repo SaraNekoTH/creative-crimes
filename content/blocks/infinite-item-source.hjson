@@ -1,5 +1,5 @@
 type: ItemSource
-name: infinite-item-source
+name: item source
 category: distribution
 buildVisibility: shown
 saveConfig: false
