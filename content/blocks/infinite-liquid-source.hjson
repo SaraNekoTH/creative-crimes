@@ -1,0 +1,13 @@
+type: LiquidSource
+name: infinite-liquid-source
+category: liquid
+buildVisibility: shown
+saveConfig: false
+size: 1
+health: 80
+requirements: [
+  copper/10
+  lead/10
+]
+buildTime: 30
+research: liquid-router

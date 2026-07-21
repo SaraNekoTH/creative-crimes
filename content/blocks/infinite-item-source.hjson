@@ -1,0 +1,14 @@
+type: ItemSource
+name: infinite-item-source
+category: distribution
+buildVisibility: shown
+saveConfig: false
+size: 1
+health: 80
+requirements: [
+  copper/10
+  lead/10
+]
+buildTime: 30
+itemsPerSecond: 100
+research: router

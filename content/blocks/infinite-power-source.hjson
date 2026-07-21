@@ -1,0 +1,12 @@
+type: PowerSource
+name: infinite-power-source
+category: power
+buildVisibility: shown
+size: 1
+health: 80
+requirements: [
+  copper/10
+  lead/10
+]
+buildTime: 30
+research: power-node
