@@ -10,5 +10,5 @@ requirements: [
   lead/10
 ]
 buildTime: 30
-itemsPerSecond: 100
+itemsPerSecond: 1000
 research: router
