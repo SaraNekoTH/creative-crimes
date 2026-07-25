@@ -11,4 +11,4 @@ requirements: [
 ]
 buildTime: 30
 itemsPerSecond: 1000
-research: router
+alwaysUnlocked: true
