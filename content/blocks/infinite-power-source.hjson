@@ -5,7 +5,6 @@ buildVisibility: shown
 envEnabled: -1
 shownPlanets: [
   serpulo
-  erekir
 ]
 size: 1
 health: 80

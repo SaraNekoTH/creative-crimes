@@ -1,17 +1,16 @@
-type: LiquidSource
-name: infinite-liquid-source
-category: liquid
+type: PowerSource
+name: infinite-power-source-erekir
+category: power
 buildVisibility: shown
 envEnabled: -1
 shownPlanets: [
-  serpulo
+  erekir
 ]
-saveConfig: false
 size: 1
 health: 80
 requirements: [
-  copper/10
-  lead/10
+  beryllium/10
+  graphite/10
 ]
 buildTime: 30
 alwaysUnlocked: true

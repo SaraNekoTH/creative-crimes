@@ -1,18 +1,17 @@
-type: ItemSource
-name: infinite-item-source
-category: distribution
+type: LiquidSource
+name: infinite-liquid-source-erekir
+category: liquid
 buildVisibility: shown
 envEnabled: -1
 shownPlanets: [
-  serpulo
+  erekir
 ]
 saveConfig: false
 size: 1
 health: 80
 requirements: [
-  copper/10
-  lead/10
+  beryllium/10
+  graphite/10
 ]
 buildTime: 30
-itemsPerSecond: 1000
 alwaysUnlocked: true
