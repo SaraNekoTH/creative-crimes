@@ -3,6 +3,7 @@ name: infinite-power-source
 category: power
 buildVisibility: shown
 envEnabled: -1
+shownPlanets: [ serpulo erekir ]
 size: 1
 health: 80
 requirements: [
