@@ -10,4 +10,5 @@ requirements: [
   lead/10
 ]
 buildTime: 30
-research: liquid-router
+
+alwaysUnlocked: true
