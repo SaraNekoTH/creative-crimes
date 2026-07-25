@@ -1,7 +1,8 @@
 type: LiquidSource
-name: liquid source
+name: infinite-liquid-source
 category: liquid
 buildVisibility: shown
+envEnabled: 3
 saveConfig: false
 size: 1
 health: 80
@@ -10,5 +11,4 @@ requirements: [
   lead/10
 ]
 buildTime: 30
-
 alwaysUnlocked: true

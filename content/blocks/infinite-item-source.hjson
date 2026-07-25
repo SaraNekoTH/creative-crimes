@@ -1,7 +1,8 @@
 type: ItemSource
-name: item source
+name: infinite-item-source
 category: distribution
 buildVisibility: shown
+envEnabled: 3
 saveConfig: false
 size: 1
 health: 80
