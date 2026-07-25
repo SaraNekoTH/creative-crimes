@@ -2,7 +2,7 @@ type: PowerSource
 name: infinite-power-source
 category: power
 buildVisibility: shown
-envEnabled: 3
+envEnabled: -1
 size: 1
 health: 80
 requirements: [
