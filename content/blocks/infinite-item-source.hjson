@@ -3,7 +3,10 @@ name: infinite-item-source
 category: distribution
 buildVisibility: shown
 envEnabled: -1
-shownPlanets: [ serpulo erekir ]
+shownPlanets: [
+  serpulo
+  erekir
+]
 saveConfig: false
 size: 1
 health: 80
