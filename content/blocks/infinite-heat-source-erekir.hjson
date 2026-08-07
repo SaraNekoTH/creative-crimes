@@ -1,6 +1,6 @@
-type: HeatSource
+type: HeatProducer
 name: Infinite Heat Source
-description: Infinite heat source for testing. Provides continuous heat output.
+description: Infinite heat source for testing. Provides continuous heat output through pipes.
 category: power
 buildVisibility: shown
 
@@ -8,14 +8,15 @@ size: 1
 health: 100
 buildTime: 30
 
-# -- heat output system --
-attributes: {
-  heat: 25
+heatOutput: 25.0
+
+warmupSpeed: 10.0
+craftTime: 1.0
+
+drawer: {
+  type: DrawDefault
 }
 
-heatOutput: 25
-
-# -- appearance --
 alwaysUnlocked: true
 requirements: [
   beryllium/10
