@@ -16,7 +16,7 @@ buildTime: 30
 heatOutput: 20
 
 // -- power consumption (optional) --
-consPower: 0
+consPower: 0f
 
 // -- appearance --
 alwaysUnlocked: true
