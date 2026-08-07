@@ -13,10 +13,7 @@ health: 100
 buildTime: 30
 
 // -- heat output --
-heatOutput: 20
-
-// -- power consumption (optional) --
-consPower: 0f
+heatOutput: 25
 
 // -- appearance --
 alwaysUnlocked: true
