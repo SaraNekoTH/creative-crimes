@@ -1,21 +1,21 @@
 type: HeatSource
-name: infinite-heat-source
+name: Infinite Heat Source
 description: Infinite heat source for testing. Provides continuous heat output.
 category: power
 buildVisibility: shown
-envEnabled: -1
-shownPlanets: [
-  erekir
-]
 
 size: 1
 health: 100
 buildTime: 30
 
-// -- heat output --
+# -- heat output system --
+attributes: {
+  heat: 25
+}
+
 heatOutput: 25
 
-// -- appearance --
+# -- appearance --
 alwaysUnlocked: true
 requirements: [
   beryllium/10
